@@ -1,1 +1,1 @@
-# Halloween-Dashboard
+I designed this dashboard to analyze Halloween participation and improve event planning. I tracked participant numbers, forecasted future trends, monitored year-over-year variations, and also visualized visitor strength for better insights.
